@@ -6,6 +6,15 @@ p {
   margin: 0 0 10px;
 }
 
+.main {
+  width: 400px;
+  margin: 0 auto;
+  /* border: 1px solid #ddd; */
+  background: #f3f3f3;
+  padding: 0 10px;
+
+}
+
 .main .card .card-body .text-muted {
   font-style: normal;
   font-weight: bold;
@@ -123,7 +132,7 @@ p {
   opacity: 0.8;
 }
 
-.product .img img{
+.product .img img {
   border-radius: 5px;
 }
 
@@ -136,6 +145,7 @@ p {
 
   color: #020235;
 }
+
 .product .title .link {
 
   color: #3E57D1;
